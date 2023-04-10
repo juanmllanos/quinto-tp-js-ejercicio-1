@@ -1,0 +1,13 @@
+body {
+	background-image: url(../img/pregunta.jpg);
+}
+
+#comenzarJuego:hover {
+	transform: scale(1.1);
+}
+
+footer {
+	position: absolute;
+	width: 100%;
+	bottom: 0;
+}
